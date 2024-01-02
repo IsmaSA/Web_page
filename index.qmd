@@ -23,15 +23,15 @@ about:
       href: https://fosstodon.org/@spcanelon
     - icon: github
       aria-label: GitHub
-      href: https://github.com/spcanelon
+      href: https://github.com/IsmaSA
     - text: "{{< ai orcid >}}"
-      href: https://orcid.org/0000-0003-1709-1394
+      href: https://orcid.org/0000-0002-7288-6336
     - text: "{{< ai google-scholar >}}"
       aria-label: "Google Scholar"
-      href: https://scholar.google.com/citations?user=GAzkvpcAAAAJ&hl=en&oi=ao
-    - icon: linkedin
-      aria-label: "LinkedIn"
-      href: https://linkedin.com/in/spcanelon
+      href: https://scholar.google.com/citations?user=y3nT7tkAAAAJ&hl=es
+    - icon: ResearchGate
+      aria-label: "ResearchGate"
+      href: https://www.researchgate.net/profile/Ismael-Soto-4
 page-layout: full
 
 execute: 
